@@ -1,0 +1,11 @@
+﻿"Phrases"
+{
+	"LR Title"
+	{
+		"de"		"Freeday"
+	}
+	"LRStart"
+	{
+		"de"		"{blue}{1} {lavender}wünscht sich einen Freeday!"
+	}
+}

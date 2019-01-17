@@ -1,0 +1,25 @@
+﻿"Phrases"
+{
+	"lr_error_already_war"
+	{
+		"de"		"{lavender}Es ist bereits Krieg!"
+	}
+	"lr_sucess"
+	{
+		"de"		"{lavender}Nächste Runde ist Krieg!"
+	}
+	"lr_sucess_init"
+	{
+		"#format"	"{1:i}"
+		"de"		"{lavender}Krieg beginnt in {blue}{1} {lavender}Runden!"
+	}
+	"lr_error_init"
+	{
+		"de"		"{lavender}Der Krieg is bereits in Vorbereitung"
+	}
+	"LR Title"
+	{
+		"de"		"War"
+	}
+
+}

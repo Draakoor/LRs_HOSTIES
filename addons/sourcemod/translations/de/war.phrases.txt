@@ -1,0 +1,11 @@
+﻿"Phrases"
+{
+	"prefix"
+	{
+		"de"		"{fullred}[Krieg] "
+	}
+	"prefix_plain"
+	{
+		"de"		"[Krieg] "
+	}
+}

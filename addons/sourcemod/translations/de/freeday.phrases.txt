@@ -1,0 +1,23 @@
+﻿"Phrases"
+{
+	"prefix"
+	{
+		"de"		"{fullred}[Freeday]"
+	}
+	"error_no_permission"
+	{
+		"de"		"{lavender}Du kannst keine Freedays vergeben!"
+	}
+	"FreedayMenuTitle"
+	{
+		"de"		"T's"
+	}
+	"freeday_sucess"
+	{
+		"de"		"{blue}{1} {lavender}hat ein Freeday!"
+	}
+	"player_freeday_next_round"
+	{
+		"de"		"{blue}{1} {lavender}hat nächste Runde einen Freeday!"
+	}
+}
